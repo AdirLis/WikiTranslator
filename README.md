@@ -4,9 +4,6 @@
 
 1. Click the green **Code** button at the top of this repository.
 2. Select **Download ZIP** and extract the contents to a folder on your computer.
-   *(Alternatively, clone the repository using `git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git`)*
-
----
 
 ### Step 2: Load the Extension into Your Browser
 
