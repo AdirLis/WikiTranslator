@@ -1,0 +1,16 @@
+{
+  "name": "WikiTranslator",
+  "description": "Finds longest language for Wikipedia article and translates it.",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": ["https://*.wikipedia.org/*"],
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "menu.html",
+    "default_icon": "Wikilogo.png"
+  }
+}
